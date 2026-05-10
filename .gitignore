@@ -107,7 +107,6 @@ dist-ssr/
 
 # ── Claude Code — never commit ───────────────────────────────
 .claude/settings.local.json
-CLAUDE.md
 fincept-qt/DESIGN_SYSTEM.md
 
 # ── Build output (uitest) ─────────────────────────────────────
